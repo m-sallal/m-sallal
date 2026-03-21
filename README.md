@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I am Maya
 
-<!--
-**m-sallal/m-sallal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Administrator transitioning into Cybersecurity, with hands-on experience building a home SOC lab to simulate and detect real-world attacks.
 
-Here are some ideas to get you started:
+## 🔐 Featured Project
+- [Raspberry Pi SOC Lab](https://github.com/m-sallal/raspberry-pi-soc-lab)
+  - Simulated SSH brute force attacks
+  - Analyzed logs using `journalctl`
+  - Implemented automated blocking with `fail2ban`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+- Linux & System Administration
+- Log Analysis & Threat Detection
+- Identity & Access Management (Entra ID)
+- Security Monitoring & Incident Response
+
+## 📫 Connect with Me
+- LinkedIn: https://linkedin.com/in/maya-sallal
