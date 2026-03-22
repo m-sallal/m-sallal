@@ -1,18 +1,18 @@
-# 👋 Hi, I am Maya
+# Hi! I am Maya.
 
-IT Administrator transitioning into Cybersecurity, with hands-on experience building a home SOC lab to simulate and detect real-world attacks.
+I am currently an IT Administrator working on transitioning into the Cybersecurity field. I am actively building my experience by configuring an at home SOC lab to simulate and detect attacks that happen in the real world.
 
-## 🔐 Featured Project
+## My Project
 - [Raspberry Pi SOC Lab](https://github.com/m-sallal/raspberry-pi-soc-lab)
   - Simulated SSH brute force attacks
   - Analyzed logs using `journalctl`
   - Implemented automated blocking with `fail2ban`
 
-## 🧠 Skills
+## My Skills
 - Linux & System Administration
 - Log Analysis & Threat Detection
 - Identity & Access Management (Entra ID)
 - Security Monitoring & Incident Response
 
-## 📫 Connect with Me
+## Connect with Me!
 - LinkedIn: https://linkedin.com/in/maya-sallal
